@@ -16,4 +16,4 @@ example_text="Hello Mr. Rohan Debnath. How are you today?"
 # print(sent_tokenize(example_text)) #Sentences into consideration.
 
 for i in word_tokenize(example_text):
-    print(i,end=" ")
+    print(i)
